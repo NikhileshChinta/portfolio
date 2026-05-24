@@ -1,24 +1,26 @@
 const exp = [
   {
     period: 'Sep 2025 – Present',
-    role: 'Platform Engineer — AI & Developer Tooling',
+    role: 'Software Engineer — AI & Platform Engineering',
     company: 'Wipro · Hyderabad, India',
     items: [
       'Architected enterprise-scale rollout of GitHub Copilot to 500+ engineers, including onboarding, training, and adoption dashboards.',
       'Authored AI governance policies covering LLM acceptable use, data security, IP protection, and regulatory compliance.',
       'Built workflow automation into CI/CD pipelines using GitHub Actions, reducing deployment cycle time.',
+      'Maintained >99% uptime for mission-critical financial data processing systems through production incident management.',
       'Partnered with business leads to embed responsible AI practices into engineering workflows.',
     ],
   },
   {
     period: 'Aug 2022 – Feb 2025',
     role: 'Software Developer — Full-Stack & Cloud',
-    company: 'Astin IT Solutions · Birmingham, UK',
+    company: 'Astin IT Solutions · Birmingham/Leicester, UK',
     items: [
       'Designed full-stack apps using Python, Node.js, Express, and React for production deployments.',
       'Built RESTful and GraphQL APIs with versioning, rate-limiting, and OAuth2 authentication.',
       'Migrated 3+ client apps to AWS and Azure, managing infrastructure and performance optimisation.',
       'Established CI/CD pipelines with GitHub Actions, eliminating manual release steps.',
+      'Reduced batch processing times by 30% and bridged legacy systems with modern REST APIs.',
     ],
   },
   {

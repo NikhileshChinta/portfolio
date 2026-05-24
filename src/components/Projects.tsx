@@ -10,7 +10,7 @@ const projects = [
   {
     title: 'Full-Stack Cloud Migration Suite',
     subtitle: 'Cloud-Native Modernisation',
-    period: 'Astin IT Solutions — 2023–2024',
+    period: 'Astin IT Solutions — 2022–2025',
     desc: 'Migrated 3+ client apps from on-prem to AWS/Azure, rearchitecting monoliths into cloud-native microservices with automated CI/CD pipelines.',
     tags: ['AWS', 'Azure', 'Node.js', 'React', 'Docker'],
     highlights: ['Zero-downtime migrations', 'Automated CI/CD pipelines', '40% faster deployments'],
@@ -18,7 +18,7 @@ const projects = [
   {
     title: 'REST/GraphQL API Platform',
     subtitle: 'Production-Grade API Gateway',
-    period: 'Astin IT Solutions — 2023–2024',
+    period: 'Astin IT Solutions — 2022–2025',
     desc: 'Unified API platform with OAuth2 auth, rate-limiting, versioned endpoints, and payment gateway integration with webhook processing.',
     tags: ['Node.js', 'Express', 'GraphQL', 'OAuth2', 'PostgreSQL'],
     highlights: ['1M+ requests/month at 99.9% uptime', 'Multi-tenant auth', 'Webhook retry logic'],
